@@ -44,4 +44,5 @@ This repository is intended for educational purposes. Copyright for textbooks, p
 ## Course
 
 BUS524 – Quantitative Techniques in Business Operations
+
 BRAC University
